@@ -12,19 +12,19 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/NextWebsite.png"
+          src="/ModernPortfolio.png"
           title="Modern Next.js Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="In this portfolio web app,I used modern technologies which is in trend now and I shows my skills and project in it, which needed for me and company desire."
         />
         <ProjectCard
-          src="/CardImage.png"
-          title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/renewals.png"
+          title="Responsive renewal management dashboard"
+          description="I created this web page during my job.This page will save the data of clients who engage with the platform or buy the subscription"
         />
         <ProjectCard
-          src="/SpaceWebsite.png"
-          title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/StackOverflow.png"
+          title="Full Stack Q&A web application"
+          description="I build a StackOverflow clone web application during an internship, additionally I integrated a chatbot and social community page for users where they can ask there querry."
         />
       </div>
     </div>
